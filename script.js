@@ -26,7 +26,6 @@ class Timer {
         this.stop();
         this.number = 0;
         this.change(this.number);
-        this.active = false
     }
 }
 
